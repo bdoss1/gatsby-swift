@@ -18,7 +18,7 @@ const IndexPage = () => (
     />
     </center>
     
-    <h1></h1>
+    <h1>Kingz of the South Dallas Weekend </h1>
   </Layout>
 )
 
