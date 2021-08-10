@@ -3,6 +3,7 @@ import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Container from '@material-ui/core/Container'
 
 const IndexPage = () => (
   <Layout>
@@ -16,9 +17,16 @@ const IndexPage = () => (
       alt="Kingz of the South"
       style={{ marginBottom: `1.45rem` }}
     />
-    </center>
-    
+  
     <h1>Kingz of the South Dallas Weekend </h1>
+    </center>
+
+<p>
+  <Container maxWidth="xs">
+    test
+  </Container>
+</p>
+
   </Layout>
 )
 
