@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Welcome!!!`,
+    title: `Crowning the City`,
     description: `KOTS Dallas Information`,
     author: `@KingSwift`,
   },

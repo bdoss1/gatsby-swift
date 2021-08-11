@@ -18,7 +18,7 @@ const IndexPage = () => (
       style={{ marginBottom: `1.45rem` }}
     />
   
-    <h1>Kingz of the South Dallas Weekend </h1>
+    <h1>Welcome</h1>
     </center>
 
 <p>
