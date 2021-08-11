@@ -23,7 +23,19 @@ const IndexPage = () => (
 
 <p>
   <Container maxWidth="xs">
-    test
+    <h1>Event Lineup</h1>
+    <h3>Thursday 8/12</h3>
+    <p>Bike Night 8pm-12am</p>
+    <p>2617 Martin Luther King Blvd</p>
+    <h3>Friday 8/13</h3>
+    <p>Block Party 8pm-2am</p>
+    <p>2617 Martin Luther King Blvd</p>
+    <h3>Saturday 8/14</h3>
+    <p>Wet N Wild Day Party 1pm-6pm</p>
+    <p>1033 Young St Dallas 75202</p>
+    <h3>Saturday 8/14</h3>
+    <p>Royal Bash  8pm-2am</p>
+    <p>1033 Young St Dallas 75202</p>
   </Container>
 </p>
 
