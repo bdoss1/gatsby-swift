@@ -41,7 +41,7 @@ const Layout = ({ children }) => {
         >
           © {new Date().getFullYear()}, Built by
           {` `}
-          <a href="">King Swift</a>
+         King Swift
         </footer>
       </div>
     </>
