@@ -20,7 +20,7 @@ const IndexPage = () => (
     </center>
 
 <p>
-  <Container maxWidth="xs">
+  <Container maxWidth="md">
     <h1>Event Lineup</h1>
     
     <h3>Thursday 8/12</h3>
