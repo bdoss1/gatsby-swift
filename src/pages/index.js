@@ -24,7 +24,7 @@ const IndexPage = () => (
     <h1>Event Lineup</h1>
     
     <h3>Thursday 8/12</h3>
-    <p>Bike Night @ Kingz Blvd 8pm-12am<br></br>KSU @ 12am headed to Aces of Dallas 2250 Manana Dr, Dallas, TX 75220</p>
+    <p>Bike Night @ Kingz Blvd 8pm-12am<br></br>KSU @ 12am headed to Aces of Dallas <br></br>2250 Manana Dr, Dallas, TX 75220</p>
 
     <StaticImage
       src="../images/bikenight.png"
