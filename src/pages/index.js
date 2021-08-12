@@ -17,8 +17,6 @@ const IndexPage = () => (
       alt="Kingz of the South"
       style={{ marginBottom: `1.45rem` }}
     />
-  
-    <h1>Welcome</h1>
     </center>
 
 <p>
@@ -50,13 +48,13 @@ const IndexPage = () => (
 
     <h1 style={{textDecoration: "underline"}}>Places to go</h1>
     <ul>
-      <li>African American Museum of Dallas - 3536 Grand Ave, Dallas, TX 75210</li>
-      <li>The Dallas World Aquarium - 1801 N Griffin St, Dallas, TX 75202</li>
-      <li>Museum of Illusions - 701 Ross Ave, Dallas, TX 75202</li>
-      <li>The Dallas Arboretum and Botanical Garden - 8525 Garland Rd, Dallas, TX 75218</li>
-      <li>Six Flags Over Texas - 2201 E Road to Six Flags St, Arlington, TX 76011</li>
-      <li>Fort Worth Zoo - 1989 Colonial Pkwy, Fort Worth, TX 76110</li>
-      <li>Dallas Zoo - 650 S R L Thornton Fwy, Dallas, TX 75203</li>
+      <li>African American Museum of Dallas <br></br> 3536 Grand Ave, Dallas, TX 75210</li>
+      <li>The Dallas World Aquarium <br></br> 1801 N Griffin St, Dallas, TX 75202</li>
+      <li>Museum of Illusions <br></br> 701 Ross Ave, Dallas, TX 75202</li>
+      <li>The Dallas Arboretum and Botanical Garden <br></br> 8525 Garland Rd, Dallas, TX 75218</li>
+      <li>Six Flags Over Texas <br></br> 2201 E Road to Six Flags St, Arlington, TX 76011</li>
+      <li>Fort Worth Zoo <br></br> 1989 Colonial Pkwy, Fort Worth, TX 76110</li>
+      <li>Dallas Zoo <br></br> 650 S R L Thornton Fwy, Dallas, TX 75203</li>
     </ul>
     <h1 style={{textDecoration: "underline"}}>Places to go</h1>
     <ul>
