@@ -7,7 +7,7 @@ import Container from '@material-ui/core/Container'
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="KOTS Dallas Information" />
+    <Seo title="KOTS Dallas Crowning the City" />
     <center>
     <StaticImage
       src="../images/kingz_logo_small.png"
@@ -24,9 +24,22 @@ const IndexPage = () => (
 <p>
   <Container maxWidth="xs">
     <h1>Event Lineup</h1>
+    
     <h3>Thursday 8/12</h3>
-    <p>Bike Night 8pm-12am</p>
-    <p>2617 Martin Luther King Blvd</p>
+    <p>Bike Night @ Kingz Blvd 8pm-12am</p>
+
+    <StaticImage
+      src="../images/bikenight.png"
+      width={300}
+      quality={95}
+      formats={["AUTO", "WEBP", "AVIF"]}
+      alt="Kingz of the South"
+      style={{ marginBottom: `1rem` }}
+    />
+   
+
+   
+    
     <h3>Friday 8/13</h3>
     <p>Block Party 8pm-2am</p>
     <p>2617 Martin Luther King Blvd</p>
