@@ -53,6 +53,12 @@ const IndexPage = () => (
       <li>Fort Worth Zoo <br></br> 1989 Colonial Pkwy, Fort Worth, TX 76110</li>
       <li>Dallas Zoo <br></br> 650 S R L Thornton Fwy, Dallas, TX 75203</li>
     </ul>
+    <h1 style={{textDecoration: "underline"}}>Food</h1>
+    <ul>
+      <li>Cafe Brazil (Breakfast) <br></br> 2815 Elm St, Dallas, TX 75226</li>
+      <li>Overeasy (Breakfast) <br></br> 1914 Commerce St, Dallas, TX 75201</li>
+      <li><strong>Vendors</strong> will be available at the block party and the hotel all weekend</li>
+    </ul>
     <h1 style={{textDecoration: "underline"}}>Hospitals</h1>
     <ul>
       <li>Baylor University Medical Center <br></br> 3305 Worth St, Dallas, TX 75246 – (214) 820-0111</li>
